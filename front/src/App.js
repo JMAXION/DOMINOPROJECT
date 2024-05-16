@@ -15,7 +15,7 @@ function App() {
       /* loader: rootLoader, */
       children: [
         { path: "/", element: <Home /> },
-        { path: "/signup", element: <Signup /> },
+        /*         { path: "/signup", element: <Signup /> }, */
         { path: "/login", element: <Login /> },
         { path: "/branch", element: <MapContainer /> },
       ],
