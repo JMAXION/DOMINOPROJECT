@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import SignupStep1 from "../components/SignupStep1";
+/* import SignupStep1 from "../components/SignupStep1";
 import SignupStep2 from "../components/SignupStep2";
-import SignupStep3 from "../components/SignupStep3";
+import SignupStep3 from "../components/SignupStep3"; */
 
 export default function Signup() {
   const [step, setStep] = useState(1);
